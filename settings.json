@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {GMP131.aternos.me
-    "ip": "slobos13.aternos.me",
+  "server": {
+    "ip": "GMP131.aternos.me",
     "port": 49805,
     "version": "1.21.1"
   },
